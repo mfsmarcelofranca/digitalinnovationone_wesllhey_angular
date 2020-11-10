@@ -1,2 +1,2 @@
 # digitalinnovationone_wesllhey_angular
-Curso da Digital Innovation One - Introdução ao Angular 8 - Especialista: Wesllhey Holanda
+Projeto do curso da Digital Innovation One - Introdução ao Angular 8 - Especialista: Wesllhey Holanda
